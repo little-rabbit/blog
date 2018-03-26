@@ -1,0 +1,5 @@
+#lsh table{width: 100%;height: 260px;display: block;}
+#lsh table tr{height: 70px;width: 100%;}
+#lsh table tr td:first-child{width:150px;font-size: 24px;text-align: center;}
+#lsh table tr td input{height: 30px;width: 160px;}
+#lsh table tr:nth-child(3) td input{width: 100px;}
